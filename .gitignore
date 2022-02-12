@@ -1,5 +1,5 @@
 *columns.csv
-./DataSet_CSVs/BikeDatasets
+DataSet_CSVs/BikeDatasets
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
